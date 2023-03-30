@@ -1,5 +1,5 @@
 # **Machine Learning** (Project) 
-Course Info: CS 5710 & CRN 13469
+Course Info: CS 5710
 ---
 ---
 ### Sign Language Recognition System - with multiple machine learning algorithms performance comparision
@@ -24,8 +24,3 @@ Main file
 - [PPT](https://github.com/Sasank09/CS5710_13469/blob/main/Sign%20Language%20for%20Alphabets/SLRS_PPT.pptx)
 
 ---
-## Student Info
-- First Name: Venkata Lakshmi Sasank
-- Last Name: Tipparaju
-- Student ID: 700738838
-- Mail ID: vxt88380@ucmo.edu
